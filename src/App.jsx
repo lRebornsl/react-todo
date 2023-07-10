@@ -1,9 +1,9 @@
 const App = () => {
 
   return (
-    <>
-      <h1>To-Do List</h1>
-    </>
+    <div className="container mx-auto">
+      <h1 className="text-3xl">To-Do List</h1>
+    </div>
   )
 }
 
