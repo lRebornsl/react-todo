@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./src/assests/reborns_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/assets/reborns_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>REACT TO-DO LIST</b></h3>
