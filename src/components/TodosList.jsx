@@ -21,6 +21,7 @@ TodosList.propTypes = {
       completed: PropTypes.bool.isRequired,
     })
   ).isRequired,
+  handleChange: PropTypes.func.isRequired,
 };
 
 export default TodosList;
