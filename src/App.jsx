@@ -1,8 +1,11 @@
-const App = () => {
+import Header from "./components/Header"
+import TodosLogic from "./components/TodosLogic"
 
+const App = () => {
   return (
-    <div className="container mx-auto">
-      <h1 className="text-3xl">To-Do List</h1>
+    <div className="flex flex-col justify-center items-center h-screen">
+      <Header />
+      <TodosLogic />
     </div>
   )
 }
