@@ -14,7 +14,7 @@ const TodosList = ({todosProps, handleChange}) => {
 };
 
 TodosList.propTypes = {
-  todos: PropTypes.arrayOf(
+  todosProps: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
       title: PropTypes.string.isRequired,
