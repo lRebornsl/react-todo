@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 import { FaTrash } from "react-icons/fa";
 import { AiFillEdit } from "react-icons/ai";
 
